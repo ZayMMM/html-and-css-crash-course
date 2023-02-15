@@ -1,8 +1,26 @@
-body{
-    background-color:  #222831; /* white, red, blue, etc */ /* https://colorhunt.co/ */
-    color: #EEEEEE; /* white, red, blue, etc */
+#my-id{
+    background-color:  rosybrown; /* white, red, blue, etc */ /* https://colorhunt.co/ */
+    color: darkcyan; /* white, red, blue, etc */
     font-size: 20px; /* 20px, 40px, etc */
     font-weight: lighter; /* lighter, normal, bold */
     text-align: center; /* center, left, right */
     margin-top: 5px; /* from 0px and upwards */
+}
+
+.my-class{
+     background-color: antiquewhite;
+     color: blueviolet;
+     font-size: 40px;
+     font-weight: lighter;
+     text-align: center;
+     margin-top: 50px;;
+}
+
+p{
+    background-color: rosybrown;
+    color: brown;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 50px;;
 }
