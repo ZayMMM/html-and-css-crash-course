@@ -1,0 +1,8 @@
+body{
+    background-color:  #222831; /* white, red, blue, etc */ /* https://colorhunt.co/ */
+    color: #EEEEEE; /* white, red, blue, etc */
+    font-size: 20px; /* 20px, 40px, etc */
+    font-weight: lighter; /* lighter, normal, bold */
+    text-align: center; /* center, left, right */
+    margin-top: 5px; /* from 0px and upwards */
+}
